@@ -1,6 +1,7 @@
 Crawl news from Times of India
 
 Features will include:
+
 a. No. of words in title
 b. No. of words in content(news article)
 c. Rate of unique tokens
